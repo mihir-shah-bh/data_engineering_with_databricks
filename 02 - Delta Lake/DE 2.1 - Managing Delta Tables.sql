@@ -63,6 +63,10 @@ CREATE TABLE students
 
 -- COMMAND ----------
 
+SELECT * FROM students
+
+-- COMMAND ----------
+
 -- MAGIC %md
 -- MAGIC 
 -- MAGIC 

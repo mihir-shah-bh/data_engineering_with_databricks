@@ -165,6 +165,11 @@ DA.data_factory.load()
 
 # COMMAND ----------
 
+# MAGIC %sql
+# MAGIC SELECT * FROM bronze
+
+# COMMAND ----------
+
 # MAGIC %md
 # MAGIC 
 # MAGIC 
